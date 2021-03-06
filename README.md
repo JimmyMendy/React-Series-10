@@ -5,7 +5,7 @@ I also used the Library Styled-Components for the CSS part and the Library Frame
 //Styled-Components
 https://styled-components.com/
 
-//Framer Motion
+//Framer Motions
 https://www.framer.com/motion/
 
 Thanks to Dev ed.
